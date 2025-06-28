@@ -8,7 +8,6 @@ Welcome to my personal web application that chronicles my journey as a web3 deve
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [Contact](#contact)
 
 ## Introduction
 
